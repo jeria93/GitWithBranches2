@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-//          Nu ska vi börja programmera
+//          Nu ska VI börja programmera
 //        Min första commit i main branchen
     }
 }
